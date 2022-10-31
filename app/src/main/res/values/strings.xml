@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyAplikasi</string>
+    <string-array name="Masuk_Sebagai">
+        <item>Masuk Sebagai</item>
+        <item>Kepala Gudang</item>
+        <item>Analis</item>
+    </string-array>
+</resources>
